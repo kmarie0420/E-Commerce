@@ -66,6 +66,7 @@ https://github.com/kmarie0420/E-Commerce
 
 ## Walk-Through-Video
 
+https://drive.google.com/file/d/1Wy5aLyB3Rdywjft3OtfM783gf545TJTi/view 
 
 ## Questions
 
