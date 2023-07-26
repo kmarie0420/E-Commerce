@@ -26,10 +26,15 @@ THEN I am able to successfully create, update, and delete data in my database
 A backend e-commerce (internet retail) that provides information on clothing. Makes it easy for the client to understand and eventually obtain. Shows charts to keep organized for inputting. Simple, clean, and polished back-end development. 
 
 ## Installation
-npm init
-npm install mysql2
-npm install dotenv
-npm install sequelize
+
+First git clone this repo: `git@github.com:kmarie0420/E-Commerce.git`
+Then run npm i at the root of this project in your local directory.
+`npm init`
+   * Uses the [MySQL2](https://www.npmjs.com/package/mysql2) 
+   * Uses the [Sequelize](https://www.npmjs.com/package/sequelize)
+   * Uses the [dotenv](https://www.npmjs.com/package/dotenv)
+   * Uses the [Express](https://www.npmjs.com/package/express)
+
 
 ## Usage Information
 
