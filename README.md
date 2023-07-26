@@ -23,12 +23,18 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Description
 
+A backend e-commerce (internet retail) that provides information on clothing. Makes it easy for the client to understand and eventually obtain. Shows charts to keep organized for inputting. Simple, clean, and polished back-end development. 
 
 ## Installation
-
+npm init
+npm install mysql2
+npm install dotenv
+npm install sequelize
 
 ## Usage Information
 
+Run the following command `mysql -u root -p` at the root of your project and input your password. Once your in mysql, use `source db/schema.sql`. Next `exit`, which takes out out of mysql and returns you to the root. Additionally `npm run seed`, & `npm run start`.
+App is now listening on Port 3001. 
 
 ## Mock-Up
 
