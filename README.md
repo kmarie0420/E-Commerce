@@ -78,3 +78,7 @@ https://drive.google.com/file/d/1Wy5aLyB3Rdywjft3OtfM783gf545TJTi/view
 If you have any questions or concerns, please email `kpowell0420@gmail.com` or https://github.com/kmarie0420 .
 
 ## Credits
+https://www.npmjs.com/package/mysql2
+https://www.npmjs.com/package/sequelize
+https://www.npmjs.com/package/dotenv
+https://www.npmjs.com/package/express
